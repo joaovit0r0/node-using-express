@@ -1,0 +1,23 @@
+{
+  "name": "js-com-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovit0r0/node-using-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovit0r0/node-using-express/issues"
+  },
+  "homepage": "https://github.com/joaovit0r0/node-using-express#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
